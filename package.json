@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-reveal",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 2a5e89fd5f4164717a5548898158610f448cd6ba
   "title": "Semantic UI - Reveal",
   "description": "Single component release of reveal",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> 2a5e89fd5f4164717a5548898158610f448cd6ba
   "devDependencies": {}
 }
