@@ -2,6 +2,14 @@
 
 - **Reveal** - Reveals now all use css properties with GPU acceleration
 
+### Version 0.16.0 - April 22, 2014
+
+- **Reveal** - Fixes reveal being broken in Chrome in ``0.15.5`` due to poor fix for reveal selectability
+
+### Version 0.15.5 - April 11, 2014
+
+- **Reveal** - Hidden content now can be selected on reveal
+
 ### Version 0.15.0 - Mar 14, 2014
 
 - **Reveal** - Reveals will now show on active, for touch devices **Thanks Illyism**
