@@ -5,7 +5,7 @@ var
 Package.describe({
   name    : 'semantic:ui-reveal',
   summary : 'Semantic UI - Reveal (official): Single component release of reveal',
-  version : '1.9.9',
+  version : '1.9.0',
   git     : 'git://github.com/Semantic-Org/UI-Reveal.git',
 });
 
