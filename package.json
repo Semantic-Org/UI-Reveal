@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-reveal",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> 8fdf6861d50a259ff2708896c8f950079b5517ee
   "title": "Semantic UI - Reveal",
   "description": "Single component release of reveal",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Reveal.git"
+    "url": "https://github.com/Semantic-Org/UI-Reveal.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
