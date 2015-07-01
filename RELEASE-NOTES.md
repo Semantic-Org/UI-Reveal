@@ -1,3 +1,8 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Reveal** - Added new `active` state that allows you to show `reveal` programatically
+- **Reveal** - Removed `masked` reveal, all reveals are masked by default
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Reveal** - Reveals now all use css properties with GPU acceleration
