@@ -1,3 +1,7 @@
+#### Bugs
+
+- **Reveal** - Reveal now uses `display: inherit` instead of forcing `inline-block`
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Reveal** - Added new `active` state that allows you to show `reveal` programatically
