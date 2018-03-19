@@ -1,3 +1,7 @@
+### Version 2.3.1 - Mar 19, 2018
+
+- **Reveal** - Fix `whitespace: nowrap;` applying to content inside `slide reveal` and `move reveal`
+
 ### Version 2.2.14 - Jan 29, 2018
 
 - **Reveal** - `ribbon label` can now work with `reveal` [#5681](https://github.com/Semantic-Org/Semantic-UI/issues/5681)
