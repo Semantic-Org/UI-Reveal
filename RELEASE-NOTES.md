@@ -1,4 +1,4 @@
-### Version 2.3.1 - Mar 19, 2018
+### Version 2.3.1 - Mar 18, 2018
 
 - **Reveal** - Fix `whitespace: nowrap;` applying to content inside `slide reveal` and `move reveal`
 
